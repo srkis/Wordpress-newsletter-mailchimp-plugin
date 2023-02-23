@@ -7,10 +7,10 @@ class BridTV_Subscribers_Data  {
 
   public function __construct()
     {
-      $this->apikey = 'da306ae74ac92a4397a5327d4f6dc90c-us6';
-      $this->listId = '8871e5e6b5';
+      $this->apikey = '';
+      $this->listId = '';
       $this->server = substr($this->apikey,strpos($this->apikey,'-')+1); // us5, us6, us8...
-      $this->campaignId = "30a6a6a2ea";
+      $this->campaignId = "";
     }
 
 
