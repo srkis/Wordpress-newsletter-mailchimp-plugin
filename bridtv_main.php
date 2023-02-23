@@ -126,18 +126,3 @@ function add_javascript(){
 add_action('wp_enqueue_scripts', 'bridtv_css');
 add_action('wp_footer', 'add_javascript');
 add_action('admin_enqueue_scripts', 'bridtv_admin_js');
-
-
-//https://mailchimp.com/developer/marketing/api/campaigns/
-
-
-
-
-
-
-
-
-
-
-
-?>
