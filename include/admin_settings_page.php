@@ -37,5 +37,4 @@ public function bridtv_settings_page() {
 }
 $bridTv = new BridTV_Newsletter();
 
-
  ?>
