@@ -7,4 +7,4 @@ Users get welcome email after subscribe. In the email you have unsubscribe link.
 
 
 
-Demo Link: https://vimeo.com/573746612
+Demo Link: https://youtu.be/D2wvCMH7Rqk
